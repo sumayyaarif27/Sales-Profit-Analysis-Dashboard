@@ -19,6 +19,9 @@ Key Business Insights
 - September is the peak sales month, nearly 3x February's sales (the weakest month)
 - The business maintains **disciplined pricing** — no order exceeds a 20% discount, protecting profit margins
 
+ Dashboard Preview
+![Dashboard Screenshot](dashboard_overview.png)
+
 Files in this Repository
 - Sales_Profit_Analysis_Dashboard.pbix – Power BI dashboard file
 - PowerBI_Sales_Dashboard_Dataset.xlsx – cleaned dataset used for analysis
