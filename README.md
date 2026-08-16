@@ -9,7 +9,8 @@ Power BI – interactive dashboard and visualization
 
 Project Workflow
 1. Data Preparation – Cleaned and structured the sales dataset in Excel (Order ID, Region, Category, Sales, Profit, Discount, etc.)
-2. SQL Analysis – Imported the dataset into a SQLite database and wrote queries to answer key business questions (see `Sales_Analysis_Queries.sql`)
+2. SQL Analysis – Imported the dataset into a SQLite database and wrote queries to answer key business questions
+(see [Sales_Analysis_Queries.sql](Sales_Analysis_Queries.sql))
 3. Power BI Dashboard – Built an interactive dashboard with KPI cards, slicers, and visuals to explore trends and drill into regions, categories, and time periods
 
 Key Business Insights
@@ -23,6 +24,6 @@ Key Business Insights
 ![Dashboard Screenshot](dashboard_overview.png)
 
 Files in this Repository
-- Sales_Profit_Analysis_Dashboard.pbix – Power BI dashboard file
-- PowerBI_Sales_Dashboard_Dataset.xlsx – cleaned dataset used for analysis
-- Sales_Analysis_Queries.sql – SQL queries with comments and insights
+- [Sales_Profit_Analysis_Dashboard.pbix](Sales_Profit_Analysis_Dashboard.pbix) – Power BI dashboard file
+- [PowerBI_Sales_Dashboard_Dataset.xlsx](PowerBI_Sales_Dashboard_Dataset.xlsx) – cleaned dataset used for analysis
+- [Sales_Analysis_Queries.sql](Sales_Analysis_Queries.sql) – SQL queries with comments and insights
