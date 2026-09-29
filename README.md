@@ -21,7 +21,7 @@ Key Business Insights
 - The business maintains **disciplined pricing** — no order exceeds a 20% discount, protecting profit margins
 
  Dashboard Preview
-![Dashboard Screenshot](dashboard_overview.png)
+![Dashboard Screenshot](Dashboard_Overview.png)
 
 Files in this Repository
 - [Sales_Profit_Analysis_Dashboard.pbix](Sales_Profit_Analysis_Dashboard.pbix) – Power BI dashboard file
